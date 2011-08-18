@@ -1,9 +1,10 @@
-
 #import "MyClass.h"
 
 #define kSwipeMinimumLength 0.1
 
 @implementation MyClass
+
+@synthesize twoFingersTouches;
 
 // Three fingers gesture, Lion (if enabled) and Leopard
 - (void)swipeWithEvent:(NSEvent *)event {
