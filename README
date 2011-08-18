@@ -1,0 +1,5 @@
+This Code shows how to use scroll and swipe gestures in Leopard and Lion.
+
+In Lion, the user can choose to enable two or three fingers gestures for navigation, as well as enabling natural scrolling. In Leopard, user can only use swipe gestures (unless you choose to do otherwise)
+
+The code should be self explanatory. It's up to you to implement the goBack and goForward methods.
