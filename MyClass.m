@@ -1,6 +1,6 @@
 #import "MyClass.h"
 
-#define kSwipeMinimumLength 0.1
+#define kSwipeMinimumLength 0.3
 
 @implementation MyClass
 
