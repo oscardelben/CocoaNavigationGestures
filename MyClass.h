@@ -2,6 +2,6 @@
 
 @interface MyClass
 
-@property (retain) NSMutableDictionary *twoFingersTouches;
+@property (strong) NSMutableDictionary *twoFingersTouches;
 
 @end
